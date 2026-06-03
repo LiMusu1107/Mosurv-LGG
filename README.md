@@ -10,5 +10,8 @@ MOGONET algorithm can be found in [MOGONET](https://github.com/txWang/MOGONET).
 
 ## Workflow
 ![workflow](Workflow/workflow.png)
-## Contact
-If you have any questions, please feel free to get touch with me: musuli@stu.njmu.edu.cn.
+
+> **Li H, Li M, Sun Y, Yu E, Pan J, Wu Y, Lu Z, Wo H, Shao F, You D, Tang S, Zhao Y, Dai J, Yi H.**  
+> *Integration of Multi-omics Data Based on Deep Learning for Subtyping of Low-Grade Glioma.*  
+> J Mol Neurosci. 2025 Aug 27;75(3):110.  
+> doi: [10.1007/s12031-025-02393-w](https://doi.org/10.1007/s12031-025-02393-w) · PMID: [40864336](https://pubmed.ncbi.nlm.nih.gov/40864336/)
